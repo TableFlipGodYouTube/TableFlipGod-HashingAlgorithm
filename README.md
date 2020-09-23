@@ -1,2 +1,2 @@
-# TableFlipGod-HashingAlgorithm
+# CustomHashingAlg
 Created with CodeSandbox
